@@ -28,12 +28,22 @@ Blynk app used for access data remotely from any where.
 * Blynk application
 
 
+Video of presentation and working  ->
 
-Image of the AgroAssist:
-![IMG-20240822-WA0153](https://github.com/user-attachments/assets/7cdfc23d-73f6-4a42-b74b-11115e8a7f9a)
+https://www.linkedin.com/posts/activity-7232452781821874176-4yX-?utm_source=share&utm_medium=member_desktop
 
-![IMG-20240822-WA0155](https://github.com/user-attachments/assets/e9a4073b-c534-45a8-a5af-8894af5953d8)
+Image of the AgroAssist :
+
+<img src="https://github.com/user-attachments/assets/7cdfc23d-73f6-4a42-b74b-11115e8a7f9a" alt="Description" width="500" height="400">
+
+Opened model view :
+
+<img src="https://github.com/user-attachments/assets/e9a4073b-c534-45a8-a5af-8894af5953d8" alt="Description" width="700" height="1000">
 
 
-Blynk application interface: 
-![IMG-20240819-WA0057](https://github.com/user-attachments/assets/3d48b882-b7ae-4025-99c8-9d162665f2ed)
+ 
+Blynk application interface:
+ 
+<img src="https://github.com/user-attachments/assets/3d48b882-b7ae-4025-99c8-9d162665f2ed" alt="Description" width="800" height="900">
+
+
